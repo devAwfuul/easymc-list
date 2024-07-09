@@ -1,4 +1,4 @@
-# [Awfuul's EasyMC list](https://devawfuul.github.io/awfuuls-easymc-list/)
+# [Awfuul's EasyMC list](https://devawfuul.github.io/easymc-list/)
 
 Awfuul's EasyMC List is a web-based tool to search and display EasyMC Minecraft accounts by username or UUID.
 
