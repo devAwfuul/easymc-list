@@ -204,12 +204,23 @@ h1 {
     font-weight: 600;
     color: #ffffff;
     background: var(--accent);
-    border: none;
     border-radius: 8px;
     cursor: pointer;
     transition: all 0.3s ease;
     position: relative;
     overflow: hidden;
+    border: 2px solid #bfbfbf3f;
+}
+
+#search-button:hover, #file-upload-label:hover {
+    background: var(--accent-hover);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(255, 59, 48, 0.3);
+}
+
+#search-button:focus, #file-upload-label:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px var(--accent);
 }
 
 #file-upload {
