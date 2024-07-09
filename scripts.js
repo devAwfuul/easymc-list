@@ -50,7 +50,7 @@ const accountCount = document.getElementById('account-count');
 const usernameLink = document.querySelector('.username-link');
 const sortSelect = document.getElementById('sort-select');
 
-const CSV_URL = 'https://raw.githubusercontent.com/devAwfuul/awfuuls-easymc-list/main/list.csv';
+const CSV_URL = 'https://raw.githubusercontent.com/devAwfuul/easymc-list/main/list.csv';
 
 // Add particles to the username
 function addParticles() {
